@@ -1,0 +1,26 @@
+@import url(style/header.css);
+@import url("style/banner.css");
+
+:root{
+
+    --cor-de-fundo: #f2f4f7;
+    --branco:#f5f2f2;
+    --amarelo:#ff6e27;
+    --roxo:#331327;
+    --roxo-degrade: linear-gradient(94.49deg, #733887 35.48%, #C75EEB 143.32%);
+    --roxo1:#733887;
+    --font-principal:"poppins";
+    --font-secundaria:"Josefin Sans";
+    --preto:#000000;
+
+}
+
+body{
+    background-color: 
+    var(--cor-de-fundo);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
